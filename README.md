@@ -34,12 +34,6 @@ In this repository, you will find implementations of the following machine learn
 
 Each algorithm implementation is provided in a separate Jupyter Notebook file for easy exploration and understanding. You can run these notebooks in your local environment or in an online Jupyter environment for experimentation and learning.
 
-## Contributors
-
-This repository is maintained by:
-
-- [Jawher KALLEL](https://github.com/JawherKl)
-
 ## How to Contribute
 
 If you have any suggestions, feature requests, or bug reports, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
