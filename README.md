@@ -2,7 +2,7 @@
 
 # Machine Learning Algorithms Repository
 
-Welcome to the Machine Learning Algorithms repository! This repository contains implementations of various machine learning algorithms in Jupyter Notebook format. The implementations are based on concepts from "The Hundred-Page Machine Learning Book" by Jawher KALLEL.
+Welcome to the Machine Learning Algorithms repository! This repository contains implementations of various machine learning algorithms in Jupyter Notebook format. The implementations are based on concepts from "The Hundred-Page Machine Learning Book".
 
 ## Overview
 
