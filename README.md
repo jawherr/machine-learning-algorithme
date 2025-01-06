@@ -48,6 +48,5 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 https://github.com/tirthajyoti/Machine-Learning-with-Python/tree/master
 https://github.com/dair-ai/ML-Notebooks
 https://github.com/maykulkarni/Machine-Learning-Notebooks
-
 The Hundred-Page Machine Learning Book
 -->
